@@ -39,8 +39,8 @@ public class FaceMain {
         DetectedFaces result = service.detectFaces(detectFacesOptions).execute();
         System.out.println(result);
 
-        System.out.print("### ######################### ###\n");
-        System.out.print("# ** end the AI   ** #\n");
-        System.out.print("### ######################### ###\n");
+        System.out.print("###############################\n");
+        System.out.print("###        end the AI       ###\n");
+        System.out.print("###############################\n");
     }
 }
