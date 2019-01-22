@@ -19,7 +19,6 @@
             <artifactId>visual-recognition</artifactId>
             <version>6.13.0</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/net.sf.sociaal/freetts -->
         <dependency>
             <groupId>net.sf.sociaal</groupId>
             <artifactId>freetts</artifactId>
