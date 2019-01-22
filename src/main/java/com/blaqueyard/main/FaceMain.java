@@ -28,7 +28,7 @@ public class FaceMain {
 
 
         IamOptions options = new IamOptions.Builder()
-                .apiKey("g2lVDPrOue8CrQUn02sFr9XLrXqvVKzuIXcJN5DxGP9o")
+                .apiKey("somethinghere")
                 .build();
 
         VisualRecognition service = new VisualRecognition("2018-03-19", options);
